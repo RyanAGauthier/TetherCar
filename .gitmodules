@@ -1,0 +1,6 @@
+[submodule "MAX31855"]
+	path = MAX31855
+	url = https://github.com/adafruit/Adafruit-MAX31855-library
+[submodule "MPRLS"]
+	path = MPRLS
+	url = https://github.com/adafruit/Adafruit_MPRLS
